@@ -5,33 +5,121 @@
 
 ## Contents
 
-  - [TypeScript](#typescript)
-  - [Java](#java)
-  - [Arduino](#arduino)
   - [ApacheConf](#apacheconf)
+  - [Arduino](#arduino)
+  - [C](#c)
+  - [C#](#c#)
+  - [C++](#c++)
+  - [CSS](#css)
+  - [CoffeeScript](#coffeescript)
+  - [Go](#go)
+  - [HTML](#html)
+  - [Java](#java)
   - [JavaScript](#javascript)
+  - [Kotlin](#kotlin)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
-  - [Shell](#shell)
-  - [Python](#python)
-  - [CoffeeScript](#coffeescript)
-  - [HTML](#html)
   - [Others](#others)
-  - [Swift](#swift)
-  - [C](#c)
-  - [Kotlin](#kotlin)
-  - [C++](#c++)
-  - [TeX](#tex)
-  - [CSS](#css)
-  - [Ruby](#ruby)
-  - [C#](#c#)
-  - [Go](#go)
   - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Shell](#shell)
+  - [Swift](#swift)
+  - [TeX](#tex)
+  - [TypeScript](#typescript)
 
-## TypeScript 
+## ApacheConf 
 
-- [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included. API Reference Docs: http://google.github.io/google-api-nodejs-client/
-- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
+- [webdesignerschecklist](https://github.com/grayghostvisuals/webdesignerschecklist) - A general workflow checklist for visual designers working within a team setting where they'll be sharing visual exploration and comps with a developer.
+
+## Arduino 
+
+- [mobile-rr](https://github.com/idolpx/mobile-rr) - ESP8266 Mobile Rick Roll Captive Portal
+
+## C 
+
+- [tree-v2](https://github.com/evilgeniuslabs/tree-v2) - 6.5’ white tree with 250 WS2811 RGB LEDs, driven by an ESP8266 microcontroller using the FastLED library, controlled with a web app over WiFi and/or an infrared remote control.
+- [mongoose-os](https://github.com/cesanta/mongoose-os) - Mongoose OS - an open source Operating System for Internet of Things. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4. Amazon AWS IoT & Google IoT Core integrated. Code in C or JavaScript.
+- [DeobfuscateEndoh](https://github.com/litonico/DeobfuscateEndoh) - Slowly deobfuscating Yusuke Endoh's incredibly clever ASCII fluid dynamics simulation
+- [wifi_ducky](https://github.com/spacehuhn/wifi_ducky) - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
+- [esp8266_deauther](https://github.com/spacehuhn/esp8266_deauther) - ESP8266 deauther
+- [nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - lua based interactive firmware for mcu like esp8266
+- [pi-blaster](https://github.com/sarfata/pi-blaster) - PWM on the Raspberry pi - done properly (in hardware, stable)
+- [shairport-sync](https://github.com/kwasmich/shairport-sync) - AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
+- [linux.mirai](https://github.com/0x27/linux.mirai) - Leaked Linux.Mirai Source Code for Research/IoC Development Purposes
+- [Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
+- [exploit-database](https://github.com/offensive-security/exploit-database) - The official Exploit Database repository
+- [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
+- [teaching-connectfour](https://github.com/sniklaus/teaching-connectfour) - the framework for my advanced artificial intelligence class, in which an connect-four player is ought to be implemented
+- [linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
+
+## C# # 
+
+- [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
+- [legoev3](https://github.com/BrianPeek/legoev3) - LEGO MINDSTORMS EV3 API for .NET
+- [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler
+- [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
+- [UWPCommunityToolkit](https://github.com/Microsoft/UWPCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.
+- [unityassets](https://github.com/fholm/unityassets) - Assorted unity assets and utilities
+
+## C++ 
+
+- [Deep-Image-Analogy](https://github.com/msracver/Deep-Image-Analogy) - The source code of 'Visual Attribute Transfer through Deep Image Analogy'.
+- [obs-websocket](https://github.com/Palakis/obs-websocket) - Remote control of OBS Studio made easy.
+- [arduino](https://github.com/pubnub/arduino) - The Official PubNub Arduino-based API!
+- [esp8266_milight_hub](https://github.com/sidoh/esp8266_milight_hub) - Replacement for a Milight/LimitlessLED hub hosted on an ESP8266
+- [firebase-arduino](https://github.com/firebase/firebase-arduino) - Arduino samples for Firebase.
+- [Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
+- [cefpython](https://github.com/cztomczak/cefpython) - Chrome browser control, a HTML 5 based Python GUI framework.      :speech_balloon: Forum:
+- [flaschen-taschen](https://github.com/hzeller/flaschen-taschen) - Noisebridge Flaschen Taschen display
+- [rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 32x32 or 16x32 RGB LED displays using Raspberry Pi GPIO
+- [nfcmillionaire](https://github.com/laane/nfcmillionaire) - Credit Card Reader - Reads basic information from NFC-enabled credit cards (owner, PAN, expiry, last payments). Written as part of a project for our M.Sc. in the School of Computing of the University of Kent, in Canterbury, UK. By Alexis Guillard, Maxime Marches and Thomas Brunner. Supervised by Julio Hernandez-Castro.
+- [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+
+## CSS 
+
+- [jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
+- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
+- [primer](https://github.com/primer/primer) - The design system that powers GitHub
+- [photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
+- [loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
+- [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
+- [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [Effeckt.css](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library
+- [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+- [ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
+- [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+## CoffeeScript 
+
+- [hubot-twitter](https://github.com/MathildeLemee/hubot-twitter) - Twitter adapter for Hubot
+- [hubot-skype-web](https://github.com/sdimkov/hubot-skype-web) - A Skype adapter for Hubot that connects via Skype web.
+
+## Go 
+
+- [gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
+- [walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
+- [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
+
+## HTML 
+
+- [Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
+- [arduinowebcontrol](https://github.com/Gymnasium-Novum/arduinowebcontrol) - controlling a arduino thru p5js and a node webserver basic setup
+- [trumptracker.github.io](https://github.com/TrumpTracker/trumptracker.github.io) - Open source for http://trumptracker.github.io/
+- [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
+- [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic
+- [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [pure](https://github.com/yahoo/pure) - A set of small, responsive CSS modules that you can use in every web project.
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
+- [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
+- [webdesignrepo](https://github.com/mildrenben/webdesignrepo) - A collection of quality webdesign links
+- [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+- [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 
 ## Java 
 
@@ -123,14 +211,6 @@
 - [Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 - [Bukkit](https://github.com/Bukkit/Bukkit) - The Minecraft Mod API
 
-## Arduino 
-
-- [mobile-rr](https://github.com/idolpx/mobile-rr) - ESP8266 Mobile Rick Roll Captive Portal
-
-## ApacheConf 
-
-- [webdesignerschecklist](https://github.com/grayghostvisuals/webdesignerschecklist) - A general workflow checklist for visual designers working within a team setting where they'll be sharing visual exploration and comps with a developer.
-
 ## JavaScript 
 
 - [homebridge-smarthome](https://github.com/rench/homebridge-smarthome) - this is a homebridge plugin for mijia eco-chain but also a management webapp provide web and restapi to manage your mijia eco-chain,you can control and monitor your accessory via apple's homekit or the webapp
@@ -211,6 +291,10 @@
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 
+## Kotlin 
+
+- [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
+
 ## Makefile 
 
 - [snowboy](https://github.com/Kitt-AI/snowboy) - DNN based hotword and wake word detection toolkit
@@ -218,59 +302,6 @@
 ## Matlab 
 
 - [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
-
-## Shell 
-
-- [lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
-- [google-assistant-hotword](https://github.com/Wqrld/google-assistant-hotword) - a custom hotword manager for google assistant made using snowboy
-- [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [ethereum_nvidia_miner](https://github.com/Cyclenerd/ethereum_nvidia_miner) - 💰 USB flash drive ISO image for Ethereum mining with NVIDIA graphics cards and Ubuntu GNU/Linux (headless)
-- [Super-Simple-Raspberry-Pi-Audio-Receiver-Install](https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install) - Super Easy installation to make your Raspberry Pi an Audio Receiver
-- [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-
-## Python 
-
-- [RFCrack](https://github.com/cclabsInc/RFCrack) - A Software Defined Radio Attack Tool
-- [aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - An easy-to-use API for the AIY Voice Kit
-- [Kali-Pi](https://github.com/Re4son/Kali-Pi) - Sticky Fingers Kali Pi
-- [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
-- [platformio-core](https://github.com/platformio/platformio-core) - An open source ecosystem for IoT development :alien: Cross-platform IDE and unified debugger. Remote unit testing and firmware updates.
-- [diyHue](https://github.com/mariusmotea/diyHue) - Philips Hue emulator that is able to control multiple types of lights
-- [JumpingSumo-Python](https://github.com/haraisao/JumpingSumo-Python) - Controller for the JumpingSUMO written in Python
-- [assistant-sdk-python](https://github.com/googlesamples/assistant-sdk-python) - Samples and bindings for the Google Assistant API
-- [google-assistant-hotword-raspi](https://github.com/warchildmd/google-assistant-hotword-raspi) - Simple Google Assistant with hotword activation from Snowboy setup for my Pi Zero W.
-- [hbmqtt](https://github.com/beerfactory/hbmqtt) - MQTT client/broker using Python asynchronous I/O
-- [spotify-cli-linux](https://github.com/pwittchen/spotify-cli-linux) - 🎶 A command-line interface to Spotify on Linux
-- [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
-- [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
-- [pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
-- [socketIO-client](https://github.com/invisibleroads/socketIO-client) - A socket.io client library for Python
-- [yowsup](https://github.com/tgalal/yowsup) - The python WhatsApp library
-- [spotify-connect-web](https://github.com/Fornoth/spotify-connect-web) - 
-- [rpi-security](https://github.com/FutureSharks/rpi-security) - A security system written in python to run on a Raspberry Pi with motion detection and mobile notifications
-- [ctf-writeups](https://github.com/techgaun/ctf-writeups) - CTF writeups for the CTFs and Vulnerable Boxes I play with sometimes
-- [OWASP-Xenotix-XSS-Exploit-Framework](https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework) - OWASP Xenotix XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework.
-- [FishTank](https://github.com/cwheel/FishTank) - A Fish Tank control system for an Independent Study in IT
-
-## CoffeeScript 
-
-- [hubot-twitter](https://github.com/MathildeLemee/hubot-twitter) - Twitter adapter for Hubot
-- [hubot-skype-web](https://github.com/sdimkov/hubot-skype-web) - A Skype adapter for Hubot that connects via Skype web.
-
-## HTML 
-
-- [Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
-- [arduinowebcontrol](https://github.com/Gymnasium-Novum/arduinowebcontrol) - controlling a arduino thru p5js and a node webserver basic setup
-- [trumptracker.github.io](https://github.com/TrumpTracker/trumptracker.github.io) - Open source for http://trumptracker.github.io/
-- [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
-- [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic
-- [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [pure](https://github.com/yahoo/pure) - A set of small, responsive CSS modules that you can use in every web project.
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
-- [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
-- [webdesignrepo](https://github.com/mildrenben/webdesignrepo) - A collection of quality webdesign links
-- [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-- [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 
 ## Others 
 
@@ -310,94 +341,63 @@
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
-## Swift 
-
-- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-## C 
-
-- [tree-v2](https://github.com/evilgeniuslabs/tree-v2) - 6.5’ white tree with 250 WS2811 RGB LEDs, driven by an ESP8266 microcontroller using the FastLED library, controlled with a web app over WiFi and/or an infrared remote control.
-- [mongoose-os](https://github.com/cesanta/mongoose-os) - Mongoose OS - an open source Operating System for Internet of Things. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4. Amazon AWS IoT & Google IoT Core integrated. Code in C or JavaScript.
-- [DeobfuscateEndoh](https://github.com/litonico/DeobfuscateEndoh) - Slowly deobfuscating Yusuke Endoh's incredibly clever ASCII fluid dynamics simulation
-- [wifi_ducky](https://github.com/spacehuhn/wifi_ducky) - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
-- [esp8266_deauther](https://github.com/spacehuhn/esp8266_deauther) - ESP8266 deauther
-- [nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - lua based interactive firmware for mcu like esp8266
-- [pi-blaster](https://github.com/sarfata/pi-blaster) - PWM on the Raspberry pi - done properly (in hardware, stable)
-- [shairport-sync](https://github.com/kwasmich/shairport-sync) - AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
-- [linux.mirai](https://github.com/0x27/linux.mirai) - Leaked Linux.Mirai Source Code for Research/IoC Development Purposes
-- [Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
-- [exploit-database](https://github.com/offensive-security/exploit-database) - The official Exploit Database repository
-- [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
-- [teaching-connectfour](https://github.com/sniklaus/teaching-connectfour) - the framework for my advanced artificial intelligence class, in which an connect-four player is ought to be implemented
-- [linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
-
-## Kotlin 
-
-- [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
-
-## C++ 
-
-- [Deep-Image-Analogy](https://github.com/msracver/Deep-Image-Analogy) - The source code of 'Visual Attribute Transfer through Deep Image Analogy'.
-- [obs-websocket](https://github.com/Palakis/obs-websocket) - Remote control of OBS Studio made easy.
-- [arduino](https://github.com/pubnub/arduino) - The Official PubNub Arduino-based API!
-- [esp8266_milight_hub](https://github.com/sidoh/esp8266_milight_hub) - Replacement for a Milight/LimitlessLED hub hosted on an ESP8266
-- [firebase-arduino](https://github.com/firebase/firebase-arduino) - Arduino samples for Firebase.
-- [Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
-- [cefpython](https://github.com/cztomczak/cefpython) - Chrome browser control, a HTML 5 based Python GUI framework.      :speech_balloon: Forum:
-- [flaschen-taschen](https://github.com/hzeller/flaschen-taschen) - Noisebridge Flaschen Taschen display
-- [rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 32x32 or 16x32 RGB LED displays using Raspberry Pi GPIO
-- [nfcmillionaire](https://github.com/laane/nfcmillionaire) - Credit Card Reader - Reads basic information from NFC-enabled credit cards (owner, PAN, expiry, last payments). Written as part of a project for our M.Sc. in the School of Computing of the University of Kent, in Canterbury, UK. By Alexis Guillard, Maxime Marches and Thomas Brunner. Supervised by Julio Hernandez-Castro.
-- [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-
-## TeX 
-
-- [RE-for-beginners](https://github.com/DennisYurichev/RE-for-beginners) - "Reverse Engineering for Beginners" free book
-
-## CSS 
-
-- [jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
-- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
-- [primer](https://github.com/primer/primer) - The design system that powers GitHub
-- [photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
-- [loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
-- [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
-- [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [Effeckt.css](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library
-- [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
-- [ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
-- [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
-- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
-- [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-
-## Ruby 
-
-- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
-- [guide](https://github.com/education/guide) - GitHub guide for teachers
-
-## C# # 
-
-- [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
-- [legoev3](https://github.com/BrianPeek/legoev3) - LEGO MINDSTORMS EV3 API for .NET
-- [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler
-- [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
-- [UWPCommunityToolkit](https://github.com/Microsoft/UWPCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.
-- [unityassets](https://github.com/fholm/unityassets) - Assorted unity assets and utilities
-
-## Go 
-
-- [gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
-- [walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
-- [oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
-
 ## PHP 
 
 - [Panel](https://github.com/Pterodactyl/Panel) - Pterodactyl Panel is the free, open-source, game agnostic, self-hosted control panel for users, networks, and game service providers. Pterodactyl supports games and servers such as Minecraft (including Spigot, Bungeecord, and Sponge), ARK: Evolution Evolved, CS:GO, Team Fortress 2, Insurgency, Teamspeak 3, Mumble, and many more. Control all of your games from one unified interface.
 - [Chat-API](https://github.com/mgp25/Chat-API) - The php WhatsApp library
 - [ClearSky](https://github.com/ClearSkyTeam/ClearSky) - ClearSky is an fast, clean PM spoon, while having many features.
 - [Nameless](https://github.com/NamelessMC/Nameless) - NamelessMC is a free, easy to use & powerful website software for your Minecraft server, which includes a large range of features.
+
+## Python 
+
+- [RFCrack](https://github.com/cclabsInc/RFCrack) - A Software Defined Radio Attack Tool
+- [aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) - An easy-to-use API for the AIY Voice Kit
+- [Kali-Pi](https://github.com/Re4son/Kali-Pi) - Sticky Fingers Kali Pi
+- [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
+- [platformio-core](https://github.com/platformio/platformio-core) - An open source ecosystem for IoT development :alien: Cross-platform IDE and unified debugger. Remote unit testing and firmware updates.
+- [diyHue](https://github.com/mariusmotea/diyHue) - Philips Hue emulator that is able to control multiple types of lights
+- [JumpingSumo-Python](https://github.com/haraisao/JumpingSumo-Python) - Controller for the JumpingSUMO written in Python
+- [assistant-sdk-python](https://github.com/googlesamples/assistant-sdk-python) - Samples and bindings for the Google Assistant API
+- [google-assistant-hotword-raspi](https://github.com/warchildmd/google-assistant-hotword-raspi) - Simple Google Assistant with hotword activation from Snowboy setup for my Pi Zero W.
+- [hbmqtt](https://github.com/beerfactory/hbmqtt) - MQTT client/broker using Python asynchronous I/O
+- [spotify-cli-linux](https://github.com/pwittchen/spotify-cli-linux) - 🎶 A command-line interface to Spotify on Linux
+- [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
+- [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
+- [pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
+- [socketIO-client](https://github.com/invisibleroads/socketIO-client) - A socket.io client library for Python
+- [yowsup](https://github.com/tgalal/yowsup) - The python WhatsApp library
+- [spotify-connect-web](https://github.com/Fornoth/spotify-connect-web) - 
+- [rpi-security](https://github.com/FutureSharks/rpi-security) - A security system written in python to run on a Raspberry Pi with motion detection and mobile notifications
+- [ctf-writeups](https://github.com/techgaun/ctf-writeups) - CTF writeups for the CTFs and Vulnerable Boxes I play with sometimes
+- [OWASP-Xenotix-XSS-Exploit-Framework](https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework) - OWASP Xenotix XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework.
+- [FishTank](https://github.com/cwheel/FishTank) - A Fish Tank control system for an Independent Study in IT
+
+## Ruby 
+
+- [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
+- [guide](https://github.com/education/guide) - GitHub guide for teachers
+
+## Shell 
+
+- [lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
+- [google-assistant-hotword](https://github.com/Wqrld/google-assistant-hotword) - a custom hotword manager for google assistant made using snowboy
+- [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+- [ethereum_nvidia_miner](https://github.com/Cyclenerd/ethereum_nvidia_miner) - 💰 USB flash drive ISO image for Ethereum mining with NVIDIA graphics cards and Ubuntu GNU/Linux (headless)
+- [Super-Simple-Raspberry-Pi-Audio-Receiver-Install](https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install) - Super Easy installation to make your Raspberry Pi an Audio Receiver
+- [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+
+## Swift 
+
+- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+## TeX 
+
+- [RE-for-beginners](https://github.com/DennisYurichev/RE-for-beginners) - "Reverse Engineering for Beginners" free book
+
+## TypeScript 
+
+- [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included. API Reference Docs: http://google.github.io/google-api-nodejs-client/
+- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 
 
 ## License
